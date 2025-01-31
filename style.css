@@ -1,0 +1,38 @@
+@font-face {
+    font-family: omoriSitelen;
+    src: url(OMORI_GAME2.ttf);
+}
+
+html, body {
+    width:100%;
+    height:100%;
+    margin: 0;
+}
+
+.tab_container {
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+}
+
+.tab {
+    flex: 1 auto;
+}
+
+body {
+
+}
+
+.sitelen {
+    font-family: omoriSitelen;
+    font-size: 5em;
+    white-space: pre-wrap;
+}
+
+.omo_box{
+    border:6px white solid;
+    box-shadow: 0 0 0 2px black;
+}
+.error {
+    color: red;
+}
