@@ -3,24 +3,6 @@
     src: url(OMORI_GAME2.ttf);
 }
 
-html, body {
-    background-color: white;
-}
-
-.tab_container {
-    width: 100%;
-    display:flex;
-    flex-direction: row;
-}
-
-.tab {
-    flex: 1 auto;
-}
-
-body {
-
-}
-
 .sitelen {
     font-family: omoriSitelen;
     font-size: 5em;
